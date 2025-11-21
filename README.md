@@ -7,7 +7,7 @@
 
 <p align="center">
   <img align="right" height="150" src="https://i.imgflip.com/a7q105.jpg" alt="MSAddon Demo GIF" />
-  <strong>MSAddon</strong> is a <em>private Minecraft mod</em> that provides a collection of <strong>quality-of-life enhancements, client-side tools, and gameplay improvements</strong>. Designed for a tailored experience for MS (towny), it helps streamline tasks, improve usability, and add custom features that enhance your Minecraft sessions.
+  <strong>MSAddon</strong> is a <em>private Minecraft mod</em> that provides a collection of <strong>quality-of-life enhancement mods and packs, client-side tools, and gameplay improvements</strong>. Designed for a tailored experience for MS (towny), it helps streamline tasks, improve usability, and add custom features that enhance your Minecraft sessions.
 </p>
 
 <p align="center"><strong>⚠️ Note:</strong> This mod is private and <em>not publicly available</em>. Access is restricted to authorized users only.</p>
