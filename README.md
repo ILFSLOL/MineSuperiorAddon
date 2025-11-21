@@ -18,12 +18,13 @@
 
 <div align="center">
   <ul style="list-style-type:none; padding:0;">
-    <li>💠 <strong>Custom HUDs</strong> – Display key stats like health, mana, or armor durability.</li>
+    <li>💠 <strong>Custom HUDs</strong> – Display key stats like health, or armor durability.</li>
     <li>🔒 <strong>Item Locking</strong> – Prevent accidental selling or discarding of valuable items.</li>
-    <li>🎒 <strong>Backpack Previews</strong> – Preview inventory without opening.</li>
-    <li>⏱ <strong>Timers & Alerts</strong> – Keep track of events, and or cooldowns.</li>
+    <li>🎒 <strong>Backpack Previews</strong> – Preview inventories without opening.</li>
+    <li>⏱ <strong>Timers & Alerts</strong> – Keep track of events, and messages.</li>
     <li>👤 <strong>Player Hider</strong> – Hide nearby players to reduce visual clutter or lag.</li>
     <li>✨ <strong>Quality-of-Life Tweaks</strong> – Small improvements that streamline gameplay.</li>
     <li>🎨 <strong>Optional Cosmetic Enhancements</strong> – Subtle visual improvements for a better experience.</li>
+    <li>🐟 <strong>Optional Fish Notifier</strong> – Adds a sound to reeling a fish.</li>
   </ul>
 </div>
